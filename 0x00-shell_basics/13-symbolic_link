@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/school
-
+ln -s /bin/ls __ls__
